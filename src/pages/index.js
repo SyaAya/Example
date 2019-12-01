@@ -8,8 +8,8 @@ const IndexPage = () => (
   <div>
     <SEO title="Home" />
     <h1>Hi Simon</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <p>I have a 502 error T~T.</p>
+    <p>I think I can paint my logo first. Haha.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
